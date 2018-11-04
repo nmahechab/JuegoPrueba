@@ -40,7 +40,6 @@ public class Menu extends Activity {
         imagenes.add("2_6+6_6");
         imagenes.add("11_3+17_3");
         imagenes.add("14_10+3_10");
-
         //Se llena el Hashmap
         lista.put("3_4+5_4",R.drawable.operacion1);
         lista.put("7_3+2_3",R.drawable.operacion2);
